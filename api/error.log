@@ -1,0 +1,5 @@
+[2024-12-18 01:02:18] [ERROR] Test Exception 
+[2024-12-18 01:07:03] [INFO] Events object state:  {"class":"Classes\\Events","data":null}
+[2024-12-18 01:07:26] [INFO] Events object state:  {"class":"Classes\\Events","data":null}
+[2024-12-18 01:07:38] [INFO] Events object state:  {"class":"Classes\\Events","data":null}
+[2024-12-18 01:07:47] [INFO] Events object state:  {"class":"Classes\\Events","data":"{\"total\":0,\"items\":[]}"}
